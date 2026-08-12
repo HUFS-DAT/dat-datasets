@@ -1,0 +1,27 @@
+{
+ "problem_id": 2,
+ "problem": "반도체 공정 불량 예측",
+ "metric": "f1",
+ "reason": "배진형 개별 초기화",
+ "reset_by": "배진형",
+ "reset_at": "2026-08-12T19:48:41.775636+09:00",
+ "count": 2,
+ "submissions": [
+  {
+   "user_id": 1,
+   "user": "배진형",
+   "score": null,
+   "error": "제출 파일에 컬럼이 없습니다: id, prediction. (id, prediction 필요)",
+   "created_at": "2026-08-10T02:45:19.885953+09:00",
+   "file": ""
+  },
+  {
+   "user_id": 1,
+   "user": "배진형",
+   "score": 0.6647209567198178,
+   "error": "",
+   "created_at": "2026-08-09T16:58:58.926591+09:00",
+   "file": ""
+  }
+ ]
+}
