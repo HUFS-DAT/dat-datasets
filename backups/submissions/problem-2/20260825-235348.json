@@ -1,0 +1,43 @@
+{
+ "problem_id": 2,
+ "problem": "반도체 공정 불량 예측",
+ "metric": "f1",
+ "reason": "박지원 개별 초기화",
+ "reset_by": "배진형",
+ "reset_at": "2026-08-25T23:53:48.976786+09:00",
+ "count": 4,
+ "submissions": [
+  {
+   "user_id": 27,
+   "user": "박지원",
+   "score": 0.4994420532440619,
+   "error": "",
+   "created_at": "2026-08-07T18:45:00.350260+09:00",
+   "file": ""
+  },
+  {
+   "user_id": 27,
+   "user": "박지원",
+   "score": 0.550021630975557,
+   "error": "",
+   "created_at": "2026-08-07T18:41:20.904266+09:00",
+   "file": ""
+  },
+  {
+   "user_id": 27,
+   "user": "박지원",
+   "score": 0.550021630975557,
+   "error": "",
+   "created_at": "2026-08-07T18:40:19.959999+09:00",
+   "file": ""
+  },
+  {
+   "user_id": 27,
+   "user": "박지원",
+   "score": 0.5315791365613429,
+   "error": "",
+   "created_at": "2026-08-04T16:50:08.722735+09:00",
+   "file": "/media/submissions/submission_9.csv"
+  }
+ ]
+}
