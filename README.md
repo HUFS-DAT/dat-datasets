@@ -1,19 +1,9 @@
-# DAT 학술트랙 데이터셋 (공개)
+# DAT 자료 저장소
 
-한국외대 DAT 학술트랙 미니 캐글 대회용 **train/test 데이터**입니다.
-정답(answer)은 포함되지 않습니다.
+한국외대 DAT 학회 사이트(dat-platform)가 파일을 올려 두는 저장소입니다.
 
-## 코랩에서 불러오기
-```python
-import pandas as pd
-base = "https://raw.githubusercontent.com/nepersoned/dat-datasets/main"
-train = pd.read_csv(f"{base}/finance/train.csv")
-test  = pd.read_csv(f"{base}/finance/test.csv")
-```
-
-| 대회 | 폴더 | 비고 |
-|------|------|------|
-| 금융/시계열 | finance | |
-| 이미지 | image | train은 용량 커서 `train.csv.gz` (pandas가 자동 해제) |
-| NLP | nlp | |
-| 제조공정 | manufacturing | |
+| 폴더 | 내용 |
+|------|------|
+| `submissions/<기수>/<팀>/` | 팀 발표자료·보고서 (사이트 제출 시 자동 업로드) |
+| `prestudy/<기수>/<팀>/` | 사전스터디 제출물 |
+| `prestudy/guidelines/` | 사전스터디 보고서 양식 |
